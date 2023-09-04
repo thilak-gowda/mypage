@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mypage/static/css/main.a806e346.css",
+    "main.js": "/mypage/static/js/main.59275874.js",
+    "static/media/bg-vid.mp4": "/mypage/static/media/bg-vid.ce024a904183400c957b.mp4",
+    "static/media/thilak-img1.png": "/mypage/static/media/thilak-img1.bb4de99defd03f8366f4.png",
+    "static/media/styronext.png": "/mypage/static/media/styronext.8d9663558829a707d69c.png",
+    "static/media/kingescort.png": "/mypage/static/media/kingescort.6da60ed1a299f738c81a.png",
+    "static/media/maportus.png": "/mypage/static/media/maportus.f23b013c060e4908bce6.png",
+    "static/media/bg1.jpg": "/mypage/static/media/bg1.5798e6ce5f01223d6f2b.jpg",
+    "static/media/2.png": "/mypage/static/media/2.14cdfd1f788f207fa18a.png",
+    "static/media/1.png": "/mypage/static/media/1.93659d6efb15c0e98800.png",
+    "static/media/3.png": "/mypage/static/media/3.e24f0ecc0333dd58972a.png",
+    "static/media/react-logo.jpg": "/mypage/static/media/react-logo.35f3c29f77a65dafe22e.jpg",
+    "static/media/bootstrap5-logo.png": "/mypage/static/media/bootstrap5-logo.a7f702ae2d5a42393075.png",
+    "static/media/csslogo.jpg": "/mypage/static/media/csslogo.1c1ccb4e9b6b7fc39a5e.jpg",
+    "static/media/js.png": "/mypage/static/media/js.1a1bf17868cabef482db.png",
+    "index.html": "/mypage/index.html",
+    "main.a806e346.css.map": "/mypage/static/css/main.a806e346.css.map",
+    "main.59275874.js.map": "/mypage/static/js/main.59275874.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a806e346.css",
+    "static/js/main.59275874.js"
+  ]
+}
