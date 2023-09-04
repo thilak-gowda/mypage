@@ -1,0 +1,47 @@
+h2 {
+    font-family: 'Heebo', sans-serif !important;
+    font-size: 80px;
+    text-align: center;
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(#787474, #c3bdbd, #eee, #eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+
+.head-container {
+    padding: 0% 0% 2% 0%;
+    position: relative;
+    background-color: white;
+}
+
+
+.head-container p {
+    font-family: 'Satisfy', cursive;
+    position: absolute;
+    color: goldenrod;
+    text-transform: capitalize;
+    left: 50%;
+    bottom: 10%;
+    transform: translate(-50%, 0%);
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+
+@media only screen and (max-width:760px) {
+
+    h2 {
+        font-size: 55px;
+    }
+
+    .head-container p {
+        font-size: 20px;
+        bottom: 0%;
+        width: 100%;
+        text-align: center;
+
+    }
+}

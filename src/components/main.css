@@ -1,0 +1,223 @@
+.main {
+    overflow-x: hidden !important;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+
+#myVideo {
+    position: relative;
+
+
+}
+
+.bgViedo {
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    max-height: 90vh;
+    object-fit: cover;
+}
+
+.about {
+    position: absolute !important;
+    background-color: rgba(255, 255, 255, 0.9);
+    /* top: 40%; */
+    bottom: 0%;
+    left: 5%;
+    right: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+
+.navbar {
+    /* background: -webkit-linear-gradient( right, #787474, #c3bdbd, #eee, #eee);
+    border-bottom: 2px solid gray; */
+}
+
+.namelogo {
+    font-size: 35px;
+    font-weight: 600;
+    width: 35%;
+    font-family: 'Satisfy', cursive;
+    color: goldenrod;
+    text-transform: capitalize;
+}
+
+Nav {
+    font-size: 15px;
+    font-weight: 800;
+    color: #009f8f !important;
+    text-transform: uppercase;
+
+}
+
+.sec-dif {
+    padding: 5% 0%;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: justify;
+    padding: 0% 0% 3% 3%;
+    font-style: italic;
+}
+
+.para span {
+    font-size: 25px;
+
+    font-weight: 500;
+
+}
+
+/* about */
+
+.about {
+    position: relative;
+}
+
+.abtpara {
+    width: 80%;
+}
+
+.abs-img {
+    position: absolute;
+    bottom: 5%;
+    right: -13%;
+    width: 40%;
+    filter: blur(0.3px);
+}
+
+/* skills */
+
+.skilrow {
+    display: flex;
+    justify-content: center;
+}
+
+.skilImg {
+    width: 25%;
+}
+
+.skills p {
+    font-family: 'Heebo', sans-serif !important;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.skills .col-4 {
+    text-align: center;
+}
+
+
+/* experties */
+
+.xpertise li {
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 2%;
+    text-align: justify;
+    font-style: italic;
+    list-style: none;
+}
+
+.xpertise li span {
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color: goldenrod;
+    font-weight: 700;
+
+}
+
+.experience {
+    background-image: url('./images/bg1.jpg');
+
+    color: white;
+}
+
+.cont {
+    background-color: rgba(114, 109, 109, 0.2);
+    padding: 3%;
+}
+
+.secLi {
+    text-align-last: center;
+}
+
+ol li {
+    counter-increment: my-awesome-counter;
+}
+
+ol li::before {
+    content: counter(my-awesome-counter) ". ";
+    color: goldenrod;
+    font-weight: 700;
+}
+
+
+
+
+
+@media only screen and (max-width:760px) {
+
+    .para {
+        font-size: 15px;
+        padding: 3% 3% 3% 3%;
+    }
+
+    .about {
+        left: 0%;
+        right: 0%;
+    }
+
+    #myVideo {
+        min-height: 90vh;
+    }
+
+    /* experties */
+
+    .xpertise li {
+        font-size: 18px;
+    }
+
+    .xpertise {
+        padding: 0% 4%;
+    }
+
+    /* skills */
+
+    .skilImg {
+        width: 35%;
+    }
+
+    .skills p {
+        font-size: 20px;
+    }
+
+    ol li::before {
+        font-size: 25px;
+    }
+
+    .xpertise li span {
+        font-size: 18px;
+    }
+
+    .skilImgboot{
+        width: 65%;
+    }
+
+}
+
+@media only screen and (max-width:380px) {
+
+    .head-container p {
+        font-size: 18px !important;
+    }
+
+}

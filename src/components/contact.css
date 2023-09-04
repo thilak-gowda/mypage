@@ -1,0 +1,41 @@
+.frm-inp {
+    width: 100%;
+    border: none;
+    border-bottom: 1.5px solid gray;
+    margin-top: 3%;
+    background-color: transparent;
+}
+
+.sub-heading {
+    color: goldenrod;
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+}
+
+.form-container {
+    padding-top: 3%;
+}
+
+
+input:focus {
+    outline: none !important;
+    border-bottom: 1.5px solid black;
+}
+
+
+.contIcons {
+    font-size: 30px;
+    margin-top: 2%;
+    color: white;
+}
+
+.contIcons i:hover{
+    color: goldenrod;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:760px) {
+    .form-container {
+        padding: 3% 4% 0% 4%;
+    }
+}

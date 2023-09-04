@@ -1,0 +1,48 @@
+
+
+.head-cont {
+    padding: 0% 0% 2% 0%;
+    position: relative;
+}
+
+
+.head-cont p {
+    font-family: 'Satisfy', cursive;
+    position: absolute;
+    color: goldenrod;
+    text-transform: capitalize;
+    left: 50%;
+    bottom: 15%;
+    transform: translate(-50%, 0%);
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+
+.numb {
+    font-family: 'Heebo', sans-serif !important;
+    font-size: 150px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(#787474, #c3bdbd, #eee, #eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+@media only screen and (max-width:760px) {
+
+    .numb {
+        font-size: 130px;
+    }
+
+    .head-cont p {
+      font-size: 33px !important;
+      bottom: 13%;
+      width: 100%;
+      text-align: center;
+    }
+  }
