@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.51a68f8f.css",
-    "main.js": "/static/js/main.eac82d0c.js",
+    "main.js": "/static/js/main.af78d63d.js",
     "static/media/bg-vid.mp4": "/static/media/bg-vid.ce024a904183400c957b.mp4",
     "static/media/thilak-img1.png": "/static/media/thilak-img1.bb4de99defd03f8366f4.png",
     "static/media/styronext.png": "/static/media/styronext.8d9663558829a707d69c.png",
@@ -13,14 +13,15 @@
     "static/media/3.png": "/static/media/3.e24f0ecc0333dd58972a.png",
     "static/media/react-logo.jpg": "/static/media/react-logo.35f3c29f77a65dafe22e.jpg",
     "static/media/bootstrap5-logo.png": "/static/media/bootstrap5-logo.a7f702ae2d5a42393075.png",
+    "static/media/github.jpg": "/static/media/github.a9d9f6e47a63e050c337.jpg",
     "static/media/csslogo.jpg": "/static/media/csslogo.1c1ccb4e9b6b7fc39a5e.jpg",
     "static/media/js.png": "/static/media/js.1a1bf17868cabef482db.png",
     "index.html": "/index.html",
     "main.51a68f8f.css.map": "/static/css/main.51a68f8f.css.map",
-    "main.eac82d0c.js.map": "/static/js/main.eac82d0c.js.map"
+    "main.af78d63d.js.map": "/static/js/main.af78d63d.js.map"
   },
   "entrypoints": [
     "static/css/main.51a68f8f.css",
-    "static/js/main.eac82d0c.js"
+    "static/js/main.af78d63d.js"
   ]
 }
